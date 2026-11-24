@@ -1,0 +1,17 @@
+{
+  "name": "aether-screensaver",
+  "version": "1.0.0",
+  "description": "Photorealistic 3D composable procedural screensaver where every form is born from a single pixel and dissolves or reassembles organically.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
